@@ -1,7 +1,8 @@
 # About
 This is a very barebones messaging server, implemented using Node.js and GraphQL.
 
-### `npm start`
-Runs the app in the development mode.
-
-Open [http://localhost:4000](http://localhost:4000) to view the Apollo GraphQL explorer in the browser
+## Setup
+- Clone the repository
+- Run "npm install" in the root directory
+- Start the app with "npm start"
+- Go setup and run the client repo https://github.com/CarterSimonson/graphql-chat-client
